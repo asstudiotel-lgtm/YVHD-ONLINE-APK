@@ -1,0 +1,14 @@
+{
+  "name": "yvhd_32online_33",
+  "displayName": "YVHD ONLINE!",
+  "version": "1.0.0",
+  "description": "YVHD ONLINE!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "ASstudio"
+}
